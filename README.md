@@ -1,1 +1,1 @@
-# rna-3dgen-ai
+# Generative AI for Novel RNA Nanostructure Design
